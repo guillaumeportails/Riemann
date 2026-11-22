@@ -1,4 +1,5 @@
-Riemann Hypothesis (proven on 20261120 ?)
-PI(x) is the number of primes in [2,x], an approximation is x/log(x)
-Approximate evaluation of PI(x) via the integral log function, with corrections from the zeros of Zeta function.
-Have a look at how the correction converge to PI(x) : build a MP4 of that
+# Riemann Hypothesis (proven on 20261120 ?)
+&Pi;(x) is the number of primes in [2,x].\
+An old approximation is x/log(x).\
+Approximate evaluation of &Pi;(x) via the integral log function, with corrections from the zeroes of the &zeta; function.\
+Have a look at how the correction converge to &Pi;(x) : build a MP4 of that.
