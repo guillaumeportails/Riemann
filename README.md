@@ -5,3 +5,5 @@ Approximate evaluation of &Pi;(x) via the integral log function, with correction
 Have a look at how the correction converge to &Pi;(x) : build a MP4 of that.
 
 Usage : via GNU Octave or MATLAB, main scripts a Riemann.m and Riemann2.m
+
+Thanks to https://www.lmfdb.org/zeros/zeta/
